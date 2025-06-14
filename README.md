@@ -14,9 +14,9 @@ A standalone CLI tool for vector database indexing and semantic search over docu
 ## Installation
 
 ```bash
-npm install -g @techformist/seta-indexer
+npm install -g seta-indexer
 # or use npx
-npx @techformist/seta-indexer <folder> [options]
+npx seta-indexer <folder> [options]
 ```
 
 ## Usage
