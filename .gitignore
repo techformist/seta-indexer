@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.seta_lancedb/
+coverage/
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.tsbuildinfo
+npm-debug.log* 

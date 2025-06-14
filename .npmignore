@@ -1,0 +1,13 @@
+src/
+test/
+.git/
+.github/
+.vscode/
+.env
+coverage/
+*.log
+*.ts
+*.md
+*.tsbuildinfo
+.gitignore
+npm-debug.log* 
