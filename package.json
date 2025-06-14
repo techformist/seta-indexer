@@ -1,5 +1,5 @@
 {
-  "name": "seta-indexer",
+  "name": "@techformist/seta-indexer",
   "version": "0.1.0",
   "type": "module",
   "description": "Vector database indexer for documentation",

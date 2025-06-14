@@ -1,4 +1,4 @@
-# Release Notes: seta-indexer v1.0.0
+# Release Notes: seta-indexer v0.1.0
 
 ## Highlights
 
@@ -24,9 +24,3 @@
 - Large PDFs may be slow to process
 - No distributed/remote DB support (local only)
 - No authentication or access control
-
-## Next Steps
-
-- Add batch embedding for speed
-- Add web UI for search
-- Add plugin system for custom file types
